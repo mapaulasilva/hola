@@ -1,0 +1,43 @@
+liga.cantidadJugadores=6
+
+liga.jugador1.nombreEquipo= USBC Masters
+liga.jugador1.nombreJugador= Carolier Lanes
+liga.jugador1.partidas= 2
+liga.jugador1.totalPuntos= 200
+liga.jugador1.imagen= data/imagenes/Carolier_Lanes.jpg
+liga.jugador1.profesional= False
+
+liga.jugador2.nombreEquipo= Team USA
+liga.jugador2.nombreJugador= Mike Fagan
+liga.jugador2.partidas= 5
+liga.jugador2.totalPuntos= 890
+liga.jugador2.imagen= data/imagenes/Mike_Fagan.jpg
+liga.jugador2.profesional= True
+
+liga.jugador3.nombreEquipo= Malaysia's Team
+liga.jugador3.nombreJugador= Shalin Zulkifli
+liga.jugador3.partidas= 3
+liga.jugador3.totalPuntos= 505
+liga.jugador3.imagen= data/imagenes/Shalin_Zulkifli.jpg
+liga.jugador3.profesional= True
+
+liga.jugador4.nombreEquipo= Australia Team
+liga.jugador4.nombreJugador= Jason Belmonte
+liga.jugador4.partidas= 10
+liga.jugador4.totalPuntos= 1250
+liga.jugador4.imagen= data/imagenes/Jason_Belmonte.jpg
+liga.jugador4.profesional= False
+
+liga.jugador5.nombreEquipo= Malaysia's Team
+liga.jugador5.nombreJugador= Sin Li
+liga.jugador5.partidas= 6
+liga.jugador5.totalPuntos= 2300
+liga.jugador5.imagen= data/imagenes/Sin_Li.jpg
+liga.jugador5.profesional= True
+
+liga.jugador6.nombreEquipo= Team USA
+liga.jugador6.nombreJugador= Shannon Pluhowsky
+liga.jugador6.partidas= 8
+liga.jugador6.totalPuntos= 1000
+liga.jugador6.imagen= data/imagenes/Shannon_Pluhowsky.jpg
+liga.jugador6.profesional= False
